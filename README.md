@@ -1,5 +1,5 @@
 ```md
-# 👨‍💻 Andrii Bilonohov
+👨‍💻 Andrii Bilonohov
 
 ### Full-Stack Web Developer
 
