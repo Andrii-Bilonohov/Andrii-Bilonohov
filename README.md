@@ -43,32 +43,6 @@ I build modern, fast, and scalable web applications using **React** and **ASP.NE
 - Visual Studio
 - WebStorm
 
----
-
-## 📌 About Me
-
-- Building full-stack applications
-- Creating clean and maintainable architecture
-- API integration & backend development
-- Responsive UI/UX
-- Interested in scalable systems & microservices
-
----
-
-## 🛠 Projects
-
-### 🍪 Cookies Website
-Simple e-commerce website built with HTML, CSS, and JavaScript.
-
-### 🛒 Shop Project
-React + ASP.NET application with product management and backend integration.
-
-### 📚 Library System
-CRUD system with structured backend architecture and database interaction.
-
-### 🌐 Service Websites
-Modern landing pages and business websites with responsive design.
-
 ## ⚡ Currently Learning
 
 - Microservices
