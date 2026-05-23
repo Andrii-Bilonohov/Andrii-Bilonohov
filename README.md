@@ -1,4 +1,3 @@
-```md
 ### Full-Stack Web Developer
 
 I build modern, fast, and scalable web applications using **React** and **ASP.NET Web API**.
