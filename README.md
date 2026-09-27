@@ -10,11 +10,11 @@ I build modern, fast, and scalable web applications using **ASP.NET Web API**, *
 
 # 🌐 Contact
 
-<a href="https://t.me/Andrii_Bilonohov">
+<a href="https://t.me/AndriiBilonohov">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/andrii-bilonohov-102866369/">
+<a href="https://www.linkedin.com/in/andrii-bilonohov/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
