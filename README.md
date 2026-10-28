@@ -81,6 +81,8 @@ I build modern, fast, and scalable web applications using **ASP.NET Web API**, *
 ## Mobile Development
 
 - React Native
+- Expo
+- Nativewind
 
 ---
 
