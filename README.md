@@ -78,6 +78,11 @@ I build modern, fast, and scalable web applications using **ASP.NET Web API**, *
 
 ---
 
+## Mobile Development
+- React Native
+
+--
+
 ## Tools
 
 - Git & GitHub
@@ -91,10 +96,8 @@ I build modern, fast, and scalable web applications using **ASP.NET Web API**, *
 
 ---
 
-# ⚡ Currently Learning
+## Additional Skills
 
 - Microservices
 - Scalable Architecture
 - Clean Architecture
-- System Design
-- React Native
